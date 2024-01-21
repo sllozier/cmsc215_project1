@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Player Analysis Program</h1>
 <p align="center">
-<i>This program began without Maven configuration, focusing initially on basic test classes like `HeightTest.java`. Transitioning to a Maven build with JUnit integration was a key part of the development, enhancing the project's structure and testing capabilities.</i>
+<i>This program began without Maven configuration, focusing initially on basic test classes similar to `PTest.java`. Transitioning to a Maven build with JUnit integration was a key part of the development, enhancing the project's structure and testing capabilities.</i>
 
 ---
 
