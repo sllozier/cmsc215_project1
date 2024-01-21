@@ -54,7 +54,7 @@ Reflecting on the player analysis program, a key improvement would be starting w
 
 <details>
 <summary><b>See Diagram</b></summary>
-<img align="center" width="750" src="./firstProject/docs/cmsc_215_project1_uml.png" alt="UML Diagram Missing">
+<img align="center" width="750" src="./firstProject/docs/project1_uml.png" alt="UML Diagram Missing">
 </details>
 
 
