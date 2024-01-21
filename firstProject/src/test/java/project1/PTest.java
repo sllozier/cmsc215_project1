@@ -1,5 +1,14 @@
 package project1;
 
+/**
+ * Name: Sarah L. Lozier
+ * Class: CMSC 215 - 6380
+ * Project: Project 1
+ * Date: January 23rd, 2024
+ * Description: This class is an example of the original test responsible for
+ * testing the Player class without using the JUnit testing framework.
+ */
+
 public class PTest {
 
     public static void main(String[] args) {

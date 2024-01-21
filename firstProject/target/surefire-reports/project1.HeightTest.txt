@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: project1.HeightTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in project1.HeightTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s -- in project1.HeightTest
+project1.HeightTest.testToInches -- Time elapsed: 0 s
+project1.HeightTest.testHeightCreationWithNegativeValues -- Time elapsed: 0.001 s
+project1.HeightTest.testToString -- Time elapsed: 0.001 s
+project1.HeightTest.testInchesConversion -- Time elapsed: 0 s
+project1.HeightTest.testHeightCreationWithLargeValues -- Time elapsed: 0.001 s
+project1.HeightTest.testHeightCreation -- Time elapsed: 0.001 s

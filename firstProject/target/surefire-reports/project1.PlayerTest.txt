@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: project1.PlayerTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in project1.PlayerTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 s -- in project1.PlayerTest
+project1.PlayerTest.testPlayerCreationWithNegativeAge -- Time elapsed: 0.022 s
+project1.PlayerTest.testToString -- Time elapsed: 0.002 s
+project1.PlayerTest.testGetName -- Time elapsed: 0.001 s
+project1.PlayerTest.testPlayerCreationWithNullHeight -- Time elapsed: 0.002 s
+project1.PlayerTest.testGetHeight -- Time elapsed: 0.002 s
+project1.PlayerTest.testPlayerCreation -- Time elapsed: 0.001 s
+project1.PlayerTest.testGetAge -- Time elapsed: 0 s
+project1.PlayerTest.testPlayerCreationWithNullName -- Time elapsed: 0.001 s
